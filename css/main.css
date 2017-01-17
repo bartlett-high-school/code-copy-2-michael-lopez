@@ -1,0 +1,66 @@
+
+
+body {
+	margin: 0;
+	padding: 0;
+	
+}
+
+
+/* Colors*/
+
+
+
+
+header {
+	background-color: black;
+	margin: 0;
+
+}
+
+p.head {
+	color: white;
+}
+
+
+
+
+/*Header*/
+ul {
+	margin: 0;
+}
+li {
+	color: lightgrey;
+	list-style: none;
+	display: inline;
+	padding-left: 6%;
+}
+
+img.headlogo {
+	width: 1.5%;
+}
+img.search {
+	width: 1.3%;
+}
+img.bag {
+	width: 1.3%;
+}
+
+/*Section Iphone*/
+
+section.sec1 {
+	margin: 0;
+	}
+	
+section.sec2 {
+	display: inline;
+	width: 5%;
+}
+	
+img.inline {
+	width: 25%;
+}
+img.right {
+	float: right;
+	width: 24%;
+}
